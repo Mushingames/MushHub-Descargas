@@ -33,7 +33,9 @@ Tus grabaciones, clips, chat y ajustes se quedan **en tu PC**. Las cuentas se co
 
 ## Apoyar el proyecto
 
-MushHub es gratuito. Si te sirve, puedes apoyar su desarrollo (enlace de donaciones próximamente).
+MushHub es gratuito. Si te sirve en tus streams, puedes apoyar su desarrollo:
+
+[![Apoyar en Ko-fi](https://img.shields.io/badge/Ko--fi-Apoyar%20MushHub-29abe0?logo=ko-fi&logoColor=white)](https://ko-fi.com/mushingames)
 
 ---
 
