@@ -1,4 +1,5 @@
 # MushHub
+n🇺🇸 [Read in English](README.en.md)
 
 **Asistente de streaming para Windows** — controla OBS con la voz, prepara títulos para Twitch, Kick y YouTube, junta el chat de todas tus plataformas y encuentra los mejores clips de tu stream con IA local.
 
@@ -14,7 +15,7 @@
 - 📱 **Clips verticales**: recorta gameplay y cámara para TikTok/Shorts, con subtítulos automáticos.
 - 💬 **Chat unificado** de Twitch, Kick, YouTube y TikTok, con emotes (7TV, BTTV, FFZ) y lectura en voz alta.
 - 📝 **Títulos y categorías** para Twitch, Kick y YouTube, siempre con vista previa y tu confirmación.
-- 🌐 **Español e inglés** (Ajustes → Sistema → Idioma / Language). Los comandos de voz, por ahora, en español.
+- 🌐 **Español e inglés** (Ajustes → Sistema → Idioma / Language). En inglés, las carpetas de clips usan nombres en inglés. Los comandos de voz, por ahora, en español.
 
 | Clips con MushAI | Comandos de voz |
 |---|---|
