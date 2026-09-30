@@ -1,5 +1,6 @@
 # MushHub
-n🇺🇸 [Read in English](README.en.md)
+
+🇺🇸 [Read in English](README.en.md)
 
 **Asistente de streaming para Windows** — controla OBS con la voz, prepara títulos para Twitch, Kick y YouTube, junta el chat de todas tus plataformas y encuentra los mejores clips de tu stream con IA local.
 
